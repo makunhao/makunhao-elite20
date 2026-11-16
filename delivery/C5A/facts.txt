@@ -1,0 +1,26 @@
+$ find . -type f | wc -l
+112
+
+$ find src -name "*.py" | xargs wc -l | tail -1
+  7531 total
+
+$ find tests -name "*.py" | xargs wc -l | tail -1
+ 1993 total
+
+$ grep -n "^version" pyproject.toml
+3:version = "0.4.2"
+
+$ ls skills agents commands
+bank-status
+skill-dedup
+---
+skill-dedup.md
+skill-deployer.md
+skill-importer.md
+skill-scanner.md
+---
+ns.md
+
+$ git clone https://github.com/neolaf2/neoskills.git
+error: RPC failed; curl 7 GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+fatal: expected flush after ref listing

@@ -1,0 +1,14 @@
+$ git clone https://github.com/makunhao/neoskills.git
+Cloning into 'neoskills'...
+remote: Enumerating objects: done.
+Receiving objects: 100% (112/112), done.
+
+$ cd neoskills && git checkout c5a-cn-notes
+c5a-cn-notes
+
+$ git log --oneline -2
+2814cb4 docs: 补充中文笔记的复现命令
+69c6850 docs: 添加 neoskills 中文阅读笔记（C5A）
+
+$ ls C5A_中文笔记.md
+2067 C5A_中文笔记.md

@@ -1,0 +1,17 @@
+GitHub 用户名：makunhao
+主页链接：https://github.com/makunhao
+个人仓库：https://github.com/makunhao/makunhao-elite20
+Fork 仓库：https://github.com/makunhao/neoskills
+Fork 时间：2026-11-16
+贡献分支：c5a-cn-notes
+贡献文件：C5A_中文笔记.md
+Commit：69c6850（初始笔记）、2814cb4（补充复现命令）
+分支链接：https://github.com/makunhao/neoskills/tree/c5a-cn-notes
+上游仓库：https://github.com/neolaf2/neoskills
+Pull Request：未提交（可选；避免向上游提交未经邀请的改动）
+状态：账号、个人仓库、fork、clone、分支、commit、push 均已完成
+
+说明：
+- 截图见 十三_C5A_screenshots/（01 终端事实、02 clone/分支/commit）。
+- 个人仓库 README 含姓名代号、专业、一句话介绍。
+- 本文档不包含任何 token 或凭据。
